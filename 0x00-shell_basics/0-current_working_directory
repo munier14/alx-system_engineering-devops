@@ -1,4 +1,4 @@
 #!/bin/bash
-  realpath \
+  echo "$PWD/$1" \
  
 
