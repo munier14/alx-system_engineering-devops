@@ -1,1 +1,2 @@
-hi this is alx 
+hi this is alx
+for bash
